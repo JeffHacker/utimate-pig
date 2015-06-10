@@ -1,5 +1,5 @@
 # Ultimate Pig
-
+ 
 ## Description
 
 Use Monte Carlo simulations to find the ultimate player of Pig Solitaire.
